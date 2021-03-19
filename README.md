@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+😄 My pronouns are she/her/hers
+
+🎓 I'm a grad student at the University of Illinois at Urbana-Champaign pursuing a Masters of Computer Science (August 2021).
+
+🔭 See the resources & events we're working on at [Illinois WCS Explorations](http://wcs.illinois.edu/explorations/index.html).
+
 <!--
 **darciap2/darciap2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +17,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 💻 Learn more about me [on my website](https://darciap2.github.io). 
+
 - ⚡ Fun fact: ...
 -->
