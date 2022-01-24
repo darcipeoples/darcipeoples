@@ -2,9 +2,7 @@
 
 😄 My pronouns are she/her/hers
 
-🎓 I'm a grad student at the University of Illinois at Urbana-Champaign pursuing a Masters of Computer Science (August 2021).
-
-🔭 See the resources & events we're working on at [Illinois WCS Explorations](http://wcs.illinois.edu/explorations/index.html).
+🎓 I graduated from the University of Illinois at Urbana-Champaign with a Masters of Computer Science (August 2021).
 
 <!--
 **darciap2/darciap2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
