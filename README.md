@@ -1,21 +1,6 @@
-### Hi there 👋
+### Hello! I'm Darci 👋
 
-😄 My pronouns are she/her/hers
-
-🎓 I graduated from the University of Illinois at Urbana-Champaign with a Masters of Computer Science (August 2021).
-
-<!--
-**darciap2/darciap2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 💻 Learn more about me [on my website](https://darciap2.github.io). 
-
-- ⚡ Fun fact: ...
--->
+- 😄 My pronouns are she/her/hers
+- 🥨 I'm currently working as a Software Engineer
+- 🎓 I graduated from UIUC with a Masters of Computer Science in August 2021
+- 💻 Learn more about me [on my website](https://www.darcipeoples.com). 
